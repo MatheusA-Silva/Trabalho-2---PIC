@@ -1,1 +1,4 @@
-explicar o código
+Caso optar pelo GitHub, o repositório deverá contemplar o código-fonte do projeto
+(.c), o arquivo compilado (.hex), o arquivo de simulação funcional (.simu), é um arquivo
+README contendo descrição do projeto com introdução e breve discussão dos resultados,
+incluindo imagens da compilação e execução da simulação. 
