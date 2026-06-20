@@ -1,4 +1,12 @@
-Caso optar pelo GitHub, o repositório deverá contemplar o código-fonte do projeto
-(.c), o arquivo compilado (.hex), o arquivo de simulação funcional (.simu), é um arquivo
-README contendo descrição do projeto com introdução e breve discussão dos resultados,
-incluindo imagens da compilação e execução da simulação. 
+Esse projeto consiste na representação de um forno industrial. Para isso foi utilizado a conversão 
+analógico-digital para fazer a leitura dos valores que são emulados do ponteciômetro. Além disso, 
+foi empregado dois múdulos internos (timers) para gerenciar contagens regressivas controladas por  
+botões e finalmente representar a aferição de temperatura e tempo no display LCD. 
+
+Como resultado, espera-se que o display exiba um menu limpo dando as opções de escolha da contagem 
+regressiva e o atual valor de temperatura definido no potenciômetro( como é possível visualizar nas 
+imagens anexadas. Após o usuário modificar o valor de temperatura no potenciômetro o display deve 
+exibir em tempo real a mudança desses valores. Por fim, o led deve funcionar como foi pedido da 
+descrição do projeto. 
+
+
